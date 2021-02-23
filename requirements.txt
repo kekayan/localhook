@@ -1,0 +1,6 @@
+pyngrok
+PyYAML>=5.3.1
+flask
+waitress
+rich
+click
