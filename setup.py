@@ -5,7 +5,7 @@ with open("README.md") as f:
 
 setup(
     name="localhook",
-    version="0.0.2",
+    version="0.0.3",
     url="https://github.com/kekayan/localhook",
     author="Kekayan Nanthakumar",
     author_email="kekayan.nanthakumar@gmail.com",
@@ -16,11 +16,11 @@ setup(
     py_modules=["localhook"],
     install_requires=[
         "pyngrok>=5.0.2",
-        "Flask==1.1.2",
+        "Flask==2.0.1",
         "PyYAML>=5.3.1",
         "rich",
         "waitress",
-        "click",
+        "click==8.0.1",
     ],
     entry_points="""
             [console_scripts]

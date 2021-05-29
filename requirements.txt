@@ -1,6 +1,6 @@
 pyngrok
 PyYAML>=5.3.1
-flask
+flask==2.0.1
 waitress
 rich
-click
+click==8.0.1
