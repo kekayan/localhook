@@ -1,11 +1,20 @@
 # localhook
 
 <p align="center"> Webhooks delivered on terminal <p>
-<p align="center">
+
+
+
+<div align="center" >
+
+[![Downloads](https://static.pepy.tech/personalized-badge/localhook?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/localhook)
+[![Downloads](https://static.pepy.tech/personalized-badge/localhook?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads/month)](https://pepy.tech/project/localhook)
+[![Downloads](https://static.pepy.tech/personalized-badge/localhook?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads/week)](https://pepy.tech/project/localhook)
+
 <a href="https://pypi.org/project/localhook/" target="_blank">
     <img src="https://img.shields.io/pypi/v/localhook?color=%2334D058&label=pypi%20package" alt="Package version">
 </a>
-</p>
+
+</div>
 
 ## Installation
 
